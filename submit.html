@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DevSquad | Message Sent</title>
+  <style>
+    :root {
+      --primary-color: #4BB543;
+      --bg-color: #f4f7f9;
+      --text-color: #333;
+      --text-light: #555;
+      --box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: var(--bg-color);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 20px;
+    }
+
+    .success-box {
+      background: #fff;
+      padding: 40px 30px;
+      border-radius: 15px;
+      box-shadow: var(--box-shadow);
+      text-align: center;
+      width: 100%;
+      max-width: 420px;
+    }
+
+    .logo {
+      max-width: 100px;
+      margin-bottom: 10px;
+    }
+
+    .company-name {
+      font-weight: 600;
+      font-size: 20px;
+      color: var(--text-color);
+      margin-bottom: 25px;
+    }
+
+    .checkmark {
+      font-size: 60px;
+      color: var(--primary-color);
+    }
+
+    h1 {
+      font-size: 28px;
+      color: var(--primary-color);
+      margin: 15px 0 10px;
+    }
+
+    p {
+      font-size: 16px;
+      color: var(--text-light);
+      margin-bottom: 25px;
+    }
+
+    a {
+      display: inline-block;
+      padding: 10px 20px;
+      background: var(--primary-color);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 15px;
+      transition: background 0.3s ease;
+    }
+
+    a:hover {
+      background: #3ca436;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 500px) {
+      .success-box {
+        padding: 30px 20px;
+      }
+
+      h1 {
+        font-size: 24px;
+      }
+
+      .checkmark {
+        font-size: 50px;
+      }
+
+      p {
+        font-size: 14px;
+      }
+
+      a {
+        font-size: 14px;
+        padding: 8px 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="success-box">
+    <!-- ✅ Company Logo -->
+    <img src="images/Next.js.png" alt="Futurist Logo" class="logo">
+
+    <!-- ✅ Company Name -->
+    <div class="company-name">DevStorm</div>
+
+    <div class="checkmark">✔</div>
+    <h1>Thank You!</h1>
+    <p>Your message has been successfully sent. We will get back to you shortly.</p>
+    <a href="index.html">Go Back to Home</a>
+  </div>
+
+</body>
+</html>

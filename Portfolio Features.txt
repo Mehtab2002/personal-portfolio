@@ -1,0 +1,94 @@
+Header/Navbar
+
+Logo or name
+
+Navigation links (Home, About, Projects, Skills, Contact)
+
+Mobile responsive toggle (hamburger menu)
+
+Hero Section
+
+Name & title (e.g., “Hi, I’m Mehtab – Software Developer”)
+
+Short intro or tagline
+
+CTA buttons (e.g., “View Projects”, “Download Resume”)
+
+About Me
+
+Short bio
+
+Education background
+
+Work experience (if any)
+
+Photo (optional)
+
+Skills
+
+Frontend: HTML, CSS, JS, React
+
+Backend: Node.js, Express, MongoDB
+
+Tools: Git, GitHub, VS Code, etc.
+
+Show with icons or progress bars
+
+Projects
+
+Showcase 4–6 best projects (beginner, intermediate, advanced)
+
+Each project:
+
+Title
+
+Screenshot or preview
+
+Description
+
+Tech stack used
+
+Live Demo link
+
+GitHub Repo link
+
+Contact Form
+
+Name, email, message
+
+Optional: phone number
+
+Can be just a form UI or integrated with an email service
+
+Footer
+
+Social media icons (GitHub, LinkedIn, Twitter)
+
+Copyright note
+
+“Back to top” button (optional)
+
+🌟 Bonus Features (To Stand Out)
+Dark/Light Mode Toggle
+
+Animations with AOS or GSAP
+
+Typing effect (e.g., react-typical or pure JS)
+
+Scroll-to-top button
+
+Downloadable Resume
+
+Project Filtering (by tech stack or category)
+
+Blog Section (optional, even if just 1–2 posts)
+
+⚙️ Technologies to Use
+HTML/CSS/JavaScript
+
+Responsive Design (Flexbox/Grid, Media Queries)
+
+Vanilla JS or minimal libraries
+
+Later: Convert to React for better component structure
+
