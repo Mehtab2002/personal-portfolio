@@ -23,14 +23,13 @@ A fully responsive and animated personal portfolio website built using **HTML, C
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Website](https://Mehtab2002.github.io/afaq-portfolio)  
-*(Replace this with your actual GitHub Pages link)*
+🔗 [View Portfolio Website](https://Mehtab2002.github.io/personal-portfolio)  
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)  
-![Skills](screenshots/skills.png)  
-![Projects](screenshots/projects.png)
+![Home](https://github.com/Mehtab2002/personal-portfolio/blob/e0c3f3d91274fbc4f3d9269402eb04610243832c/Screenshots/Home.png)  
+![Skills](https://github.com/Mehtab2002/personal-portfolio/blob/e0c3f3d91274fbc4f3d9269402eb04610243832c/Screenshots/Skills.png)  
+![Projects](https://github.com/Mehtab2002/personal-portfolio/blob/e0c3f3d91274fbc4f3d9269402eb04610243832c/Screenshots/Projects.png)
 
 
 ## 📬 Contact
