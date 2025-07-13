@@ -23,7 +23,7 @@ A fully responsive and animated personal portfolio website built using **HTML, C
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Website](https://Mehtab2002.github.io/personal-portfolio)  
+🔗 [View Portfolio Website](https://mehtab2002.github.io/personal-portfolio/)  
 
 ## 📸 Screenshots
 
